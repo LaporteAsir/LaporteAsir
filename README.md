@@ -1,16 +1,13 @@
-### Hi there 👋
+# ¡Hola! soy Álvaro Laporte
 
-<!--
-**LaporteAsir/LaporteAsir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Actualmente estoy cursando como **_Estudiante de Administración y gestión de sistemas informáticos en red_**
 
-Here are some ideas to get you started:
+### Más cosas acerca de mi:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :mortar_board: Busco aprender más cosas sobre lenguaje de márcas y sobre el uso de GITHUB
+- :email: Puedes encontrarme en _*alaporter01@educantabria.es*_
+- :camera: _Fotógrafo semiprofesional_
+- :art: _Diseñador gráfico_
+
+
+⭐️ Creado por [Alvaro_Laporte](http://google.es)
