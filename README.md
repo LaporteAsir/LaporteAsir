@@ -1,3 +1,5 @@
+![Hello](https://github.com/LaporteAsir/LaporteAsir/blob/main/hello.jpg)
+
 # ¡Hola! soy Álvaro Laporte
 
 :school_satchel: Actualmente estoy cursando como **_Estudiante de Administración y gestión de sistemas informáticos en red_**
@@ -7,7 +9,6 @@
 - :mortar_board: Busco aprender más cosas sobre lenguaje de márcas y sobre el uso de GITHUB
 - :email: Puedes encontrarme en _*alaporter01@educantabria.es*_
 - :camera: _Fotógrafo semiprofesional_
-  
 - :art: _Diseñador gráfico_
 
 
