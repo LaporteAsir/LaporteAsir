@@ -19,10 +19,11 @@
 - [x] Comprar el pan
  
 
+__*Albert Einstein*__
+
 >I have no special talent.    
 >I am only passionately curious.
 
-__*Albert Einstein*__
 
 
 ⭐️ Creado por [Alvaro_Laporte](https://github.com/LaporteAsir)
