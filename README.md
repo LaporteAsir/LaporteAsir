@@ -12,9 +12,8 @@
 - :art: _Diseñador gráfico_
 
 >I have no special talent.
-
 >I am only passionately curious.
 
-                Albert Einstein
+Albert Einstein
 
 ⭐️ Creado por [Alvaro_Laporte](https://github.com/LaporteAsir)
