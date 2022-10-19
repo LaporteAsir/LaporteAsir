@@ -11,5 +11,7 @@
 - :camera: _Fotógrafo semiprofesional_
 - :art: _Diseñador gráfico_
 
+>I have no special talent. 
+>I am only passionately curious.
 
 ⭐️ Creado por [Alvaro_Laporte](https://github.com/LaporteAsir)
