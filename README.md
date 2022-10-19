@@ -18,10 +18,12 @@
 - [ ] Comprar naranjas
 - [x] Comprar el pan
  
-First Header | Second Header
+### Tabla de valores
+
+Cosas de valor | Cosas sin valor
 ------------ | -------------
-Content cell 1 | Content cell 2
-Content column 1 | Content column 2
+Tiempo | Envidia
+Conocimiento | iPhone 14
 
 __*Albert Einstein*__
 
