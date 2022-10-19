@@ -22,7 +22,7 @@
 
 | **Cosas de valor** | **Cosas sin valor** |
 | :----: | :----: |
-| Tiempo: | Envidia |
+| Tiempo | Envidia |
 | Conocimiento | iPhone 14 |
 
 __*Albert Einstein*__
